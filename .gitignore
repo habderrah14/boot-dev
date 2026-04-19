@@ -1,0 +1,55 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python caches / tooling
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Node / JS
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.next/
+dist/
+build/
+coverage/
+
+# Logs and runtime artifacts
+*.log
+*.pid
+*.seed
+*.out
+*.err
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Misc temporary files
+tmp/
+temp/
+.cache/

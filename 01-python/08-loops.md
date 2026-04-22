@@ -64,6 +64,18 @@ How `for x in xs:` advances and exits.
           └──────────▶  back to next(it)
 ```
 
+## Must know now
+
+- The chapter's core mental model and one working example.
+- The most common beginner bug for this topic.
+- Enough to finish the matching exercise L1 and L2 tasks.
+
+## Can skip for now
+
+- Advanced performance caveats.
+- Rare edge cases and deep language internals.
+- Optional tooling depth that is not needed for this chapter's checkpoint.
+
 ## Concept deep-dive
 
 ### `for` loops the iterable
@@ -326,7 +338,9 @@ def contains(xs, target):
 
 ## Learn-by-doing mini-project
 
-Full brief (goal, acceptance criteria, hints, stretch): [08-loops — mini-project](mini-projects/08-loops-project.md).
+Use the single module project track and complete **Checkpoint D**:
+
+- [Python Fundamentals Companion Track](mini-projects/00-python-fundamentals-companion-track.md)
 
 ## Where this idea reappears
 

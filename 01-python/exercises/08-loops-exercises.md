@@ -1,43 +1,45 @@
 # Module 01 · Exercises — Loops
 
-Tasks reference **this chapter only** (plus its mini-project brief). Use the chapter file `08-loops.md` while you work.
+## You need this before attempting
 
-## 1) Warm-up — vocabulary
+- Read chapter: `07-comparisons.md and 03-functions.md`
+- Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint D)
 
-List **six terms** introduced in *Loops*. For each: one-line definition **in your own words** + one sentence on why a backend team cares.
+Do tasks in order. Do not jump levels.
 
-**Success check:** No term is copied verbatim from the chapter heading without explanation.
+## L1 — Basic recall and application
 
-**What you should have learned:** You can explain the headline without running code.
+Write short answers for 5 key terms from **Loops** and one tiny code snippet that uses the core idea correctly.
 
-## 2) Standard — smallest working artifact
+**Success check:** Your snippet runs and your definitions are in your own words.
 
-Implement **one** concrete artifact described in the chapter’s *Production-quality code* section, **or** the first acceptance bullet of [`mini-projects/08-loops-project.md`](../mini-projects/08-loops-project.md). Put it under `practice/08-loops/` with a 5-line `README.md` (`cd` path + run command + expected output).
+## L2 — Guided coding
 
-**Success check:** A peer can run your README on a clean machine and see the same output.
+Build one guided artifact from the chapter in `practice/08-loops/`.
+Include a 5-line README with run command and expected output.
 
-**What you should have learned:** The happy path is reproducible, not lucky.
+**Success check:** A peer can run it from your README without extra guessing.
 
-## 3) Bug hunt — three chapter-themed bugs
+## L3 — Debug / bug-fix
 
-Introduce **three bugs** that a reader of *Loops* could realistically make (misread API, wrong flag, wrong assumption about defaults). Document **symptom → root cause → fix** for each with a minimal diff.
+Create two realistic bugs tied to this chapter and document:
 
-**Success check:** Each bug references a sentence or API from this chapter.
+1. Symptom
+2. Root cause
+3. Fix
 
-**What you should have learned:** You recognize failure signatures tied to this topic.
+At least one bug must be from a wrong mental model, not just a typo.
 
-## 4) Stretch — trade-off memo (≤250 words)
+**Success check:** Each bug is reproducible and then fixed with clear before/after behavior.
 
-Answer: *When would I avoid the default approach from “Loops”, and what would I use instead?* Name two alternatives and one failure mode each prevents.
+## L4 — Stretch challenge
 
-**Success check:** Memo mentions at least one of: latency, security, operability, cost.
+Solve one open-ended challenge that combines this chapter with earlier module knowledge, then add a short trade-off note (what you chose and why).
 
-**What you should have learned:** Choices are constrained, not tribal.
+**Success check:** Solution works, and your trade-off note mentions readability or maintainability.
 
-## 5) Stretch++ — teach-back
+## Mini-project checkpoint
 
-Record **5 flashcards** (front/back) or a **3-minute outline** explaining *Loops* to a friend who only knows Modules 01–02. Include **one common wrong answer** on a card.
+After finishing L1–L4, update **Checkpoint D** in:
 
-**Success check:** A listener could answer a basic interview question on this topic afterward.
-
-**What you should have learned:** Teaching exposes holes in understanding.
+- [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md)

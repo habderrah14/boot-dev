@@ -42,7 +42,7 @@ Checkpoint mapping for pilot lessons:
 - **Variables** requires: Introduction only.
 - **Functions** requires: Variables.
 - **Scope** requires: Functions.
-- **Loops** requires: Functions (which already depends on Variables) + Comparisons.
+- **Loops** requires: Functions + Comparisons.
 
 Exercises in these chapters should not require future lessons.
 

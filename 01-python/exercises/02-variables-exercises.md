@@ -3,7 +3,7 @@
 ## You need this before attempting
 
 - Read chapter: `01-introduction.md`
-- Initialize your project from: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) before L1, then complete Checkpoint A after L4.
+- Initialize your project from: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) before starting L1. After finishing L1–L4, complete Checkpoint A.
 
 Do tasks in order. Do not jump levels.
 

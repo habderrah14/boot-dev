@@ -2,7 +2,7 @@
 
 ## You need this before attempting
 
-- Read chapter: `07-comparisons.md and 03-functions.md`
+- Read chapter: `07-comparisons.md` and `03-functions.md`
 - Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint D)
 
 Do tasks in order. Do not jump levels.

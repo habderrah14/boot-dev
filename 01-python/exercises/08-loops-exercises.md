@@ -2,7 +2,7 @@
 
 ## You need this before attempting
 
-- Read chapter: `07-comparisons.md` and `03-functions.md`
+- Read chapters in this order: `03-functions.md` (write loop logic in functions), then `07-comparisons.md` (loop conditions).
 - Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint D)
 
 Do tasks in order. Do not jump levels.

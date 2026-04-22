@@ -22,7 +22,7 @@ Include a 5-line README with run command and expected output.
 
 ## L3 — Debug / bug-fix
 
-Create two realistic bugs tied to this chapter and document:
+Create three realistic bugs tied to this chapter and document:
 
 1. Symptom
 2. Root cause

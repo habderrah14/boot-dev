@@ -2,7 +2,7 @@
 
 ## You need this before attempting
 
-- Read chapters in this order: `03-functions.md` (write loop logic in functions), then `07-comparisons.md` (loop conditions).
+- Read chapters: `03-functions.md` and `07-comparisons.md` (both are required before this loop set).
 - Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint D)
 
 Do tasks in order. Do not jump levels.
@@ -22,7 +22,7 @@ Include a 5-line README with run command and expected output.
 
 ## L3 — Debug / bug-fix
 
-Create two realistic bugs tied to this chapter and document:
+Create three realistic bugs tied to this chapter and document:
 
 1. Symptom
 2. Root cause

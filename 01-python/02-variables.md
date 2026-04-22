@@ -61,6 +61,18 @@ Two names, one underlying value, one mutation visible through both.
 
 Mutation reaches through every name pointing at the value. Rebinding only changes the one sticky note.
 
+## Must know now
+
+- The chapter's core mental model and one working example.
+- The most common beginner bug for this topic.
+- Enough to finish the matching exercise L1 and L2 tasks.
+
+## Can skip for now
+
+- Advanced performance caveats.
+- Rare edge cases and deep language internals.
+- Optional tooling depth that is not needed for this chapter's checkpoint.
+
 ## Concept deep-dive
 
 ### Names and values
@@ -305,7 +317,9 @@ round((p1 + p2) / 2, 2)
 
 ## Learn-by-doing mini-project
 
-Full brief (goal, acceptance criteria, hints, stretch): [02-variables — mini-project](mini-projects/02-variables-project.md).
+Use the single module project track and complete **Checkpoint A**:
+
+- [Python Fundamentals Companion Track](mini-projects/00-python-fundamentals-companion-track.md)
 
 ## Where this idea reappears
 

@@ -64,6 +64,18 @@ How a call moves through a function and back to the caller.
 
 The arguments slide into the parameter slots; the body runs; the `return` value slides back out. Anything not returned is invisible to the caller.
 
+## Must know now
+
+- The chapter's core mental model and one working example.
+- The most common beginner bug for this topic.
+- Enough to finish the matching exercise L1 and L2 tasks.
+
+## Can skip for now
+
+- Advanced performance caveats.
+- Rare edge cases and deep language internals.
+- Optional tooling depth that is not needed for this chapter's checkpoint.
+
 ## Concept deep-dive
 
 ### Anatomy of a function
@@ -349,7 +361,9 @@ def compose(f, g):
 
 ## Learn-by-doing mini-project
 
-Full brief (goal, acceptance criteria, hints, stretch): [03-functions — mini-project](mini-projects/03-functions-project.md).
+Use the single module project track and complete **Checkpoint B**:
+
+- [Python Fundamentals Companion Track](mini-projects/00-python-fundamentals-companion-track.md)
 
 ## Where this idea reappears
 

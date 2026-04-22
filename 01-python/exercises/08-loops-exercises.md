@@ -2,7 +2,7 @@
 
 ## You need this before attempting
 
-- Read chapters: `03-functions.md` and `07-comparisons.md`.
+- Read chapters: `03-functions.md` and `07-comparisons.md` (`07-comparisons.md` is a direct chapter prerequisite, even though it is outside this pilot exercise rewrite).
 - Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint C)
 
 Do tasks in order. Do not jump levels.

@@ -20,11 +20,13 @@ Create `study_cli.py`, a command-line helper that stores study notes and progres
 - Store one note in named variables and print a formatted line.
 - Validate that empty input is rejected.
 
-**Done when:** `python study_cli.py` prints exactly 3 lines:
+**Done when:** `python study_cli.py` prints exactly this output shape:
 
-1. `Python Study CLI v0.1`
-2. `Note: <your note text>`
-3. `Status: valid`
+```text
+Python Study CLI v0.1
+Note: <your note text>
+Status: valid
+```
 
 ## Checkpoint B — Functions (after Chapter 03)
 

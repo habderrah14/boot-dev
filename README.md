@@ -14,7 +14,7 @@ Use this repo when your current need is:
 
 This repo now prioritizes:
 
-- **Beginner-first language.** Start simple, add depth later.
+- **Beginner-friendly language.** Start simple, add depth later.
 - **Visual-first explanations.** Key ideas should have traceable diagrams.
 - **Gradual exercises.** Every exercise set should move from basic to stretch.
 - **One mini-project track.** Module 01 uses one cumulative track with checkpoints.

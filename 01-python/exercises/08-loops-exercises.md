@@ -2,7 +2,7 @@
 
 ## You need this before attempting
 
-- Read chapters: `03-functions.md` and `07-comparisons.md` (both are required before this loop set).
+- Read chapters: `03-functions.md` and `07-comparisons.md` (Functions already depends on Variables, so Variables is an implied prerequisite).
 - Have your project at: [Python Fundamentals Companion Track](../mini-projects/00-python-fundamentals-companion-track.md) (Checkpoint D)
 
 Do tasks in order. Do not jump levels.
